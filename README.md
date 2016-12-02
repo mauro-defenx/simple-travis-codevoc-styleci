@@ -1,0 +1,1 @@
+Simple project using Composer, PHPUnit, Travis, Codecov, PHP-CS-Fixer and StyleCI
