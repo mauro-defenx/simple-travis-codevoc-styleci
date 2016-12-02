@@ -13,3 +13,5 @@ script:
 - vendor/bin/phpunit --coverage-clover=coverage.xml
 env:
 - SIMPLE_KEY=someValue
+notifications:
+  email: false
